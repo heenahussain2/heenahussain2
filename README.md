@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **skikit-learn, tensorflow, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/heenahusain96](https://github.com/heenahussain2)
+- 👨‍💻 All of my projects are available at [https://github.com/heenahussain2](https://github.com/heenahussain2)
 
 - 📫 How to reach me **heenahusain52@gmail.com**
 
