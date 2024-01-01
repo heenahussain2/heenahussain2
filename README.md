@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/heenahussain2](https://github.com/heenahussain2)
 
+- 👨‍💻 My Kaggle Profile https://www.kaggle.com/heenahusain96
+
 - 📫 How to reach me **heenahusain52@gmail.com**
 
 - 📄 Know about my experiences [https://bold.pro/my/heena-hussain-230321085320](https://bold.pro/my/heena-hussain-230321085320)
